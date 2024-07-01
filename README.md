@@ -28,3 +28,4 @@ There is no intention to steal the game, or claim the Flappy Bird name as my own
 
 If the copyright holder would like for the assets to be removed, please open an 
 issue to start the conversation.
+## i am here to watch all
